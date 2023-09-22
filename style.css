@@ -9,7 +9,7 @@
     /* width: 350px;
     height: 74px;
 border-radius: 50px;
- border: 1px; */ */
+ border: 1px; */ 
  
     
     
@@ -40,3 +40,6 @@ left: 101px;
 
 
 } */
+.grip{
+    background-color: hsl(223, 58%, 29%);
+}
