@@ -46,3 +46,7 @@ left: 101px;
 .body{
     background-color: hsl(198, 69%, 93%);
 }
+button{
+     background-color: hsl(197, 61%, 47%);
+     border: none;
+}
